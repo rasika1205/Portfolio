@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { useInView } from "framer-motion";
 import { useRef, useEffect, useState } from "react";
 import { ExternalLink, GitFork, Star, Loader2, Folder, Rocket } from "lucide-react";
-import { PROJECT_META } from "@/data/projectMeta";
+import { PROJECT_META } from "@/data/ProjectMeta";
 
 interface GitHubRepo {
   id: number;
