@@ -21,6 +21,9 @@ Welcome to my personal portfolio website! This project showcases my professional
 - **Tailwind CSS** (or your CSS framework of choice)
 - Modern web tooling and best practices
 
+<img width="1576" height="730" alt="Screenshot 2025-12-16 004604" src="https://github.com/user-attachments/assets/d6fa6c4b-f49c-4269-8e96-b046227dd341" />
+
+
 ## 📁 Project Structure
 
 ```
