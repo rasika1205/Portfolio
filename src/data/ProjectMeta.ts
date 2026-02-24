@@ -4,6 +4,18 @@ export interface ProjectMeta {
 }
 
 export const PROJECT_META: Record<string, ProjectMeta> = {
+    "solar-panel-classification": {
+    image: "/projects/Screenshot 2026-02-24 223757.png",
+    description:
+      "Built an AI-powered system to automatically detect faults in solar panels using deep learning image classification. The model identifies issues such as dust accumulation, bird droppings, snow coverage, electrical damage, and physical damage to support predictive maintenance and improve solar energy efficiency.",
+
+  },
+  "portfolio": {
+    image: "/projects/Screenshot 2025-12-16 004604.png",
+    description:
+      "A personal portfolio website showcasing my projects in web development, machine learning, and AI, along with my technical skills and experience.",
+
+  },
   "apex": {
     image: "/projects/img.png",
     description:
