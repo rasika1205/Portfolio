@@ -66,7 +66,8 @@ const getProjectImage = (repo: GitHubRepo): string => {
   "ai-career-coach",
   "medical-assistant-ai-tool",
   "web-scrapping",
-  "solar-panel-classification"
+  "solar-panel-classification",
+  "portfolio"
 ].map(normalize));
 
 const MINOR_PROJECTS = new Set([
